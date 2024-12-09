@@ -1,0 +1,4 @@
+requests>=2.31.0
+rich>=13.7.0
+ratelimit>=2.2.1
+tqdm>=4.66.1
